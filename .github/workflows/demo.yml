@@ -6,5 +6,7 @@ jobs:
     steps:
       - name: Print Console
         run: echo Hello Dima
+      - name: Print second line
+        run: echo Hello Nikita
         
     
